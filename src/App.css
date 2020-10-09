@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+body{
+  background-color: gray;
+}
+.title{
+  text-align: center;
+  font-weight: bold;
+}
+.container{
+  background-color: rgba(255,255,255,0.5);
+  margin: 20px 20px auto;
+  border: 1px gray double;
+  width: 40%;
+  padding: 20px;
+}
+.container input, select{
+  width:60%;
+  border-top: none;
+  border-left: none;
+  border-right: none; 
+}
+
+
+
+
